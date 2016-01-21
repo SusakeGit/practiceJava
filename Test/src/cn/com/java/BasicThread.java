@@ -8,5 +8,5 @@ public class BasicThread {
 		thread.start();
 		System.out.println("wait for LiftOff");
 	}
-	
+
 }
