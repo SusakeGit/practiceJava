@@ -24,7 +24,6 @@ class PassValue {
 	public static StringBuffer passvalue() {
 		StringBuffer buffer = new StringBuffer();
 		//buffer 指向passvalue 中的buffer对象
-		//new StringBuffer()成为垃圾收集器回收的对象
 		buffer.append("hello world");
 		return buffer;
 	}
