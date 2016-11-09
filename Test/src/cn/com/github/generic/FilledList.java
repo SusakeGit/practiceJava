@@ -26,7 +26,7 @@ public class FilledList<T> {
 				result.add(type.newInstance());
 			}
 		} catch (Exception e) {
-			throw new RuntimeException(); 
+			throw new RuntimeException();
 		}
 		return result;
 	}
