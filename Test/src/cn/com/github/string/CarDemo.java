@@ -1,4 +1,4 @@
-package cn.com.github4;
+package cn.com.github.string;
 
 import cn.com.java2.static_final;
 
