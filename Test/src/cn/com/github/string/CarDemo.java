@@ -1,6 +1,6 @@
 package cn.com.github.string;
 
-import cn.com.java2.static_final;
+import cn.com.github.java2.static_final;
 
 class Car{
 	int num;
